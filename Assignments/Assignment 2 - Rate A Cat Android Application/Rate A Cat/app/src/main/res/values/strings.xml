@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Rate A Cat</string>
+
+    <string name="start_fragment_heading">Start Rating</string>
+    <string name="start_fragment_instructions">Tap the button to start</string>
+    <string name="start_button_label">Start</string>
+    <string name="reminder_message">Remember to be polite!</string>
+
+    <string name="list_fragment_instructions">Tap to rate</string>
+    <string name="cat_name">Cat Name</string>
+    <string name="cute_button_label">Cute</string>
+    <string name="not_cute_button_label">Not Cute</string>
+    <string name="cute_score">score: %d</string>
+
+    <string name="final_message">We look cute but we are deadly! purrrrr…</string>
+    <string name="Name">John Doe</string>
+
+</resources>
