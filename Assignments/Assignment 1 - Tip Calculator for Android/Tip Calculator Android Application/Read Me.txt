@@ -1,0 +1,56 @@
+Tip Calculator
+
+
+About
+This android applicaion provides the basic tip calculating functionality. The user needs to enter the base amount, the number of people sharing the bill, and the tip percentage. Initially the tip percentage is set to 15% and the bill is not shared that is, the party size is 1. As soon as the user enters the the base amount, the tip amount is automatically calculated and displayed. As the user slides the tip scroller, the tip amount will automatically change and displayed on the screen. However, the total bill amount will only be computed and displayed after the user presses the Calculate button. Now depending upon the party size, the total amount will be displayed. If the party size is 1, only the total amount will be displayed. If the party size is more than 1, the amount will be splitted equally among the total number of people sharing the bill and the amount per person will be displayed. After the calculation, if the user changes the state of any field, the total amount will be erased and after the change has been made, the Calculate button is needed to be pressed again. The Reset button will set all the fields to the default. Also, the application handles the typing errors that a user might commit such as party size 0, decimal without 0, decimal more than once, blank fields, calculating without entering the amount, e.t.c. 
+
+
+Tools and Technologies Used:
+
+* Android Studio 3.6.1
+  Build #AI-192.7142.36.36.6241897, built on February 27, 2020
+  Runtime version: 1.8.0_212-release-1586-b04 amd64
+  VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
+  Windows 10 10.0
+  GC: ParNew, ConcurrentMarkSweep
+  Memory: 1246M
+  Cores: 4
+
+* Operating System: Windows 10 Home Basic
+
+* Programming Language: Kotlin
+
+* Smartphone used for testing: Huwaii P30
+
+
+Test cases used:
+
+* Press the Calculate button without entering the base amount.
+* Enter the base amount value beginning with the decimal. Eg: .876
+* Try to enter 0 in party size.
+* Calculate the total amount with the tip percentage.
+* Calculate the total amount after the tip percentage value is changed.
+* Calculate the total amount if the tip percentage is set to 0%.
+* Calculate the total amount when the party size is 1.
+* Calculate the total amount when the party size is 3.
+* Calculate the total amount when the party size is 10.
+* Press the reset button after entering the values in all the fields.
+* Press the reset button after entering the value in Bill text field only.
+* Press the reset button after changing the tip percentage scroll bar.
+* Calculate the total amount when the base amount is 0.
+* Calculate the total amount and then change the tip percentage.
+* Calculate the total amount and then change the party size.
+* Calculate the total amount and then change the bill amount.
+* Calculate the total amount when the party size is 0.
+* Calculate the total amount when the base amount is an integer value.
+* Calculate the total amount when the base amount is a floating number with only two decimal place. Example: 55.87
+* Calculate the total amount when the base amount is a floating number with more than two decimal place. Example:      55.899999 
+* Calculate the total amount when the base amount and the party size are equal and the tip percentage is 0. Example:   Base = 55 and Party Size = 55
+* Calculate the total amount when the bill amount is less than the party size and the tip percentage is 0. Example:    Base = 55 and Party Size = 60
+
+
+References:
+
+“Kotlin OnClickListener - SetOnClickListener for Button in Kotlin Android,” TutorialKart. [Online]. Available: https://www.tutorialkart.com/kotlin-android/set-onclicklistener-button-kotlin-android/. [Accessed: 12-Mar-2020].
+
+“Kotlin Android TextView and EditText - javatpoint,” www.javatpoint.com. [Online]. Available: https://www.javatpoint.com/kotlin-android-textview-and-edittext. [Accessed: 12-Mar-2020].

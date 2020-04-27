@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/calcButton"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:ignore="DuplicateIds">
+
+    <TextView
+        android:id="@+id/tipPerTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="15%"
+        android:textColor="@android:color/black"
+        android:textSize="19sp"
+        app:layout_constraintEnd_toEndOf="@+id/baseTextView"
+        app:layout_constraintTop_toBottomOf="@+id/splitTextView" />
+
+    <TextView
+        android:id="@+id/tipLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Tip"
+        android:textColor="@android:color/black"
+        android:textSize="19sp"
+        app:layout_constraintEnd_toEndOf="@+id/baseTextView"
+        app:layout_constraintTop_toBottomOf="@+id/tipPerTextView" />
+
+    <TextView
+        android:id="@+id/totalTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Total"
+        android:textColor="@android:color/black"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/baseTextView"
+        app:layout_constraintTop_toBottomOf="@+id/tipLabelTextView" />
+
+    <TextView
+        android:id="@+id/splitTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Party Size"
+        android:textColor="@android:color/black"
+        android:textSize="19sp"
+        app:layout_constraintEnd_toEndOf="@+id/baseTextView"
+        app:layout_constraintTop_toBottomOf="@+id/baseTextView" />
+
+    <TextView
+        android:id="@+id/baseTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="56dp"
+        android:layout_marginLeft="56dp"
+        android:layout_marginTop="32dp"
+        android:text="Base "
+        android:textColor="@android:color/black"
+        android:textSize="19sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/baseEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:ems="8"
+        android:inputType="numberDecimal"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@id/baseTextView"
+        app:layout_constraintStart_toEndOf="@+id/baseTextView" />
+
+    <EditText
+        android:id="@+id/splitEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:ems="8"
+        android:inputType="number"
+        android:text="1"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@id/splitTextView"
+        app:layout_constraintStart_toEndOf="@+id/splitTextView" />
+
+    <SeekBar
+        android:id="@+id/tipSeekBar"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:max="25"
+        app:layout_constraintBottom_toBottomOf="@+id/tipPerTextView"
+        app:layout_constraintStart_toEndOf="@+id/tipPerTextView"
+        app:layout_constraintTop_toTopOf="@+id/tipPerTextView" />
+
+    <TextView
+        android:id="@+id/amountTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        app:layout_constraintBaseline_toBaselineOf="@+id/totalTextView"
+        app:layout_constraintStart_toEndOf="@+id/totalTextView"
+        tools:text="$70.40" />
+
+    <TextView
+        android:id="@+id/tipTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:textSize="19sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/tipLabelTextView"
+        app:layout_constraintStart_toEndOf="@+id/tipLabelTextView"
+        tools:text="$14.08" />
+
+    <Button
+        android:id="@+id/calButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Calculate Total"
+        android:textAllCaps="false"
+        android:textIsSelectable="false"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/amountTextView" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="Made with ❤ at DAL"
+        android:textAllCaps="true"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/resetButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Reset"
+        android:textAllCaps="false"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/calButton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
