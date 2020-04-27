@@ -1,0 +1,272 @@
+{
+  "1": {
+    "storeName": "Walmart",
+    "storeLogo": "gs://smartshopper-e4b3c.appspot.com/stores/walmart_logo.jpg",
+    "items": {
+      "063124201104": {
+        "upc": "063124201104",
+        "name": "Milk",
+        "price": 1.99,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/sct_milk.jpg",
+        "description": "Scotsburn 2% M.F. partly skimmed milk 4 L jug. A pasteurized, homogenized partly skimmed milk containing 2% M.F. and added vitamins A & D. This product is an excellent source of calcium."
+      },
+      "037000757535": {
+        "upc": "037000757535",
+        "name": "Body Wash",
+        "price": 4.99,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/body_wash_ivory.jpg",
+        "description": "Ivory Body Wash is dermatologist tested and formulated to be mild, gentle to your skin. It leaves skin clean and hydrated (vs. regular soap) and is free of dyes and heavy perfumes. Ivory reflects over 140 years of experience creating gentle products the whole family can trust."
+      },
+      "8901030756511": {
+        "upc": "8901030756511",
+        "name": "Vaseline Aloe",
+        "price": 2.99,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/id_901030756511.png",
+        "description": "Vaseline Intensive Care Aloe Fresh Body Lotion is enriched with 100% pure aloe vera extracts and microdroplets of Vaseline jelly, restores skin's moisture and helps maintain 24 hour hydration in skin. "
+      }
+    }
+  },
+  "2": {
+    "storeName": "Atlantic Superstore",
+    "storeLogo": "gs://smartshopper-e4b3c.appspot.com/stores/as_logo.png",
+    "items": {
+      "063124201104": {
+        "upc": "063124201104",
+        "name": "Milk",
+        "price": 2.99,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/sct_milk.jpg",
+        "description": "Scotsburn 2% M.F. partly skimmed milk 4 L jug. A pasteurized, homogenized partly skimmed milk containing 2% M.F. and added vitamins A & D. This product is an excellent source of calcium."
+      },
+      "037000757535": {
+        "upc": "037000757535",
+        "name": "Body Wash",
+        "price": 5.99,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/body_wash_ivory.jpg",
+        "description": "Ivory Body Wash is dermatologist tested and formulated to be mild, gentle to your skin. It leaves skin clean and hydrated (vs. regular soap) and is free of dyes and heavy perfumes. Ivory reflects over 140 years of experience creating gentle products the whole family can trust."
+      },
+      "8901030756511": {
+        "upc": "8901030756511",
+        "name": "Vaseline Aloe",
+        "price": 1.99,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/id_901030756511.png",
+        "description": "Vaseline Intensive Care Aloe Fresh Body Lotion is enriched with 100% pure aloe vera extracts and microdroplets of Vaseline jelly, restores skin's moisture and helps maintain 24 hour hydration in skin. "
+      }
+    }
+  },
+  "3": {
+    "storeName": "Sobeys",
+    "storeLogo": "gs://smartshopper-e4b3c.appspot.com/stores/sobeys_logo.jpeg",
+    "items": {
+      "063124201104": {
+        "upc": "063124201104",
+        "name": "Milk",
+        "price": 1.99,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/sct_milk.jpg",
+        "description": "Scotsburn 2% M.F. partly skimmed milk 4 L jug. A pasteurized, homogenized partly skimmed milk containing 2% M.F. and added vitamins A & D. This product is an excellent source of calcium."
+      },
+      "037000757535": {
+        "upc": "037000757535",
+        "name": "Body Wash",
+        "price": 4.99,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/body_wash_ivory.jpg",
+        "description": "Ivory Body Wash is dermatologist tested and formulated to be mild, gentle to your skin. It leaves skin clean and hydrated (vs. regular soap) and is free of dyes and heavy perfumes. Ivory reflects over 140 years of experience creating gentle products the whole family can trust."
+      },
+      "8901030756511": {
+        "upc": "8901030756511",
+        "name": "Vaseline Aloe",
+        "price": 2.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/id_901030756511.png",
+        "description": "Vaseline Intensive Care Aloe Fresh Body Lotion is enriched with 100% pure aloe vera extracts and microdroplets of Vaseline jelly, restores skin's moisture and helps maintain 24 hour hydration in skin. "
+      }
+    }
+  },
+  "4": {
+    "storeName": "Costco",
+    "storeLogo": "gs://smartshopper-e4b3c.appspot.com/stores/costco_logo.jpg",
+    "items": {
+      "063124201104": {
+        "upc": "063124201104",
+        "name": "Milk",
+        "price": 1.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/sct_milk.jpg",
+        "description": "Scotsburn 2% M.F. partly skimmed milk 4 L jug. A pasteurized, homogenized partly skimmed milk containing 2% M.F. and added vitamins A & D. This product is an excellent source of calcium."
+      },
+      "037000757535": {
+        "upc": "037000757535",
+        "name": "Body Wash",
+        "price": 3.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/body_wash_ivory.jpg",
+        "description": "Ivory Body Wash is dermatologist tested and formulated to be mild, gentle to your skin. It leaves skin clean and hydrated (vs. regular soap) and is free of dyes and heavy perfumes. Ivory reflects over 140 years of experience creating gentle products the whole family can trust."
+      },
+      "8901030756511": {
+        "upc": "8901030756511",
+        "name": "Vaseline Aloe",
+        "price": 1.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/id_901030756511.png",
+        "description": "Vaseline Intensive Care Aloe Fresh Body Lotion is enriched with 100% pure aloe vera extracts and microdroplets of Vaseline jelly, restores skin's moisture and helps maintain 24 hour hydration in skin. "
+      }
+    }
+  },
+  "5": {
+    "storeName": "Sam's No Frills",
+    "storeLogo": "gs://smartshopper-e4b3c.appspot.com/stores/snf_logo.png",
+    "items": {
+      "063124201104": {
+        "upc": "063124201104",
+        "name": "Milk",
+        "price": 2.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/sct_milk.jpg",
+        "description": "Scotsburn 2% M.F. partly skimmed milk 4 L jug. A pasteurized, homogenized partly skimmed milk containing 2% M.F. and added vitamins A & D. This product is an excellent source of calcium."
+      },
+      "037000757535": {
+        "upc": "037000757535",
+        "name": "Body Wash",
+        "price": 2.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/body_wash_ivory.jpg",
+        "description": "Ivory Body Wash is dermatologist tested and formulated to be mild, gentle to your skin. It leaves skin clean and hydrated (vs. regular soap) and is free of dyes and heavy perfumes. Ivory reflects over 140 years of experience creating gentle products the whole family can trust."
+      },
+      "8901030756511": {
+        "upc": "8901030756511",
+        "name": "Vaseline Aloe",
+        "price": 2.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/id_901030756511.png",
+        "description": "Vaseline Intensive Care Aloe Fresh Body Lotion is enriched with 100% pure aloe vera extracts and microdroplets of Vaseline jelly, restores skin's moisture and helps maintain 24 hour hydration in skin. "
+      }
+    }
+  },
+  "6": {
+    "storeName": "Brothers Indian Grocery",
+    "storeLogo": "gs://smartshopper-e4b3c.appspot.com/stores/bigs_logo.png",
+    "items": {
+      "063124201104": {
+        "upc": "063124201104",
+        "name": "Milk",
+        "price": 2.29,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/sct_milk.jpg",
+        "description": "Scotsburn 2% M.F. partly skimmed milk 4 L jug. A pasteurized, homogenized partly skimmed milk containing 2% M.F. and added vitamins A & D. This product is an excellent source of calcium."
+      },
+      "037000757535": {
+        "upc": "037000757535",
+        "name": "Body Wash",
+        "price": 1.79,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/body_wash_ivory.jpg",
+        "description": "Ivory Body Wash is dermatologist tested and formulated to be mild, gentle to your skin. It leaves skin clean and hydrated (vs. regular soap) and is free of dyes and heavy perfumes. Ivory reflects over 140 years of experience creating gentle products the whole family can trust."
+      },
+      "8901030756511": {
+        "upc": "8901030756511",
+        "name": "Vaseline Aloe",
+        "price": 2.99,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/id_901030756511.png",
+        "description": "Vaseline Intensive Care Aloe Fresh Body Lotion is enriched with 100% pure aloe vera extracts and microdroplets of Vaseline jelly, restores skin's moisture and helps maintain 24 hour hydration in skin. "
+      }
+    }
+  },
+  "7": {
+    "storeName": "Freshmart",
+    "storeLogo": "gs://smartshopper-e4b3c.appspot.com/stores/freshmart_logo.jpg",
+    "items": {
+      "063124201104": {
+        "upc": "063124201104",
+        "name": "Milk",
+        "price": 1.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/sct_milk.jpg",
+        "description": "Scotsburn 2% M.F. partly skimmed milk 4 L jug. A pasteurized, homogenized partly skimmed milk containing 2% M.F. and added vitamins A & D. This product is an excellent source of calcium."
+      },
+      "037000757535": {
+        "upc": "037000757535",
+        "name": "Body Wash",
+        "price": 4.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/body_wash_ivory.jpg",
+        "description": "Ivory Body Wash is dermatologist tested and formulated to be mild, gentle to your skin. It leaves skin clean and hydrated (vs. regular soap) and is free of dyes and heavy perfumes. Ivory reflects over 140 years of experience creating gentle products the whole family can trust."
+      },
+      "8901030756511": {
+        "upc": "8901030756511",
+        "name": "Vaseline Aloe",
+        "price": 2.29,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/id_901030756511.png",
+        "description": "Vaseline Intensive Care Aloe Fresh Body Lotion is enriched with 100% pure aloe vera extracts and microdroplets of Vaseline jelly, restores skin's moisture and helps maintain 24 hour hydration in skin. "
+      }
+    }
+  },
+  "8": {
+    "storeName": "PaknSave",
+    "storeLogo": "gs://smartshopper-e4b3c.appspot.com/stores/pns_logo.jpg",
+    "items": {
+      "063124201104": {
+        "upc": "063124201104",
+        "name": "Milk",
+        "price": 0.99,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/sct_milk.jpg",
+        "description": "Scotsburn 2% M.F. partly skimmed milk 4 L jug. A pasteurized, homogenized partly skimmed milk containing 2% M.F. and added vitamins A & D. This product is an excellent source of calcium."
+      },
+      "037000757535": {
+        "upc": "037000757535",
+        "name": "Body Wash",
+        "price": 3.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/body_wash_ivory.jpg",
+        "description": "Ivory Body Wash is dermatologist tested and formulated to be mild, gentle to your skin. It leaves skin clean and hydrated (vs. regular soap) and is free of dyes and heavy perfumes. Ivory reflects over 140 years of experience creating gentle products the whole family can trust."
+      },
+      "8901030756511": {
+        "upc": "8901030756511",
+        "name": "Vaseline Aloe",
+        "price": 1.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/id_901030756511.png",
+        "description": "Vaseline Intensive Care Aloe Fresh Body Lotion is enriched with 100% pure aloe vera extracts and microdroplets of Vaseline jelly, restores skin's moisture and helps maintain 24 hour hydration in skin. "
+      }
+    }
+  },
+  "9": {
+    "storeName": "Spencer's",
+    "storeLogo": "gs://smartshopper-e4b3c.appspot.com/stores/spencers_logo.png",
+    "items": {
+      "063124201104": {
+        "upc": "063124201104",
+        "name": "Milk",
+        "price": 1.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/sct_milk.jpg",
+        "description": "Scotsburn 2% M.F. partly skimmed milk 4 L jug. A pasteurized, homogenized partly skimmed milk containing 2% M.F. and added vitamins A & D. This product is an excellent source of calcium."
+      },
+      "037000757535": {
+        "upc": "037000757535",
+        "name": "Body Wash",
+        "price": 3.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/body_wash_ivory.jpg",
+        "description": "Ivory Body Wash is dermatologist tested and formulated to be mild, gentle to your skin. It leaves skin clean and hydrated (vs. regular soap) and is free of dyes and heavy perfumes. Ivory reflects over 140 years of experience creating gentle products the whole family can trust."
+      },
+      "8901030756511": {
+        "upc": "8901030756511",
+        "name": "Vaseline Aloe",
+        "price": 2.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/id_901030756511.png",
+        "description": "Vaseline Intensive Care Aloe Fresh Body Lotion is enriched with 100% pure aloe vera extracts and microdroplets of Vaseline jelly, restores skin's moisture and helps maintain 24 hour hydration in skin. "
+      }
+    }
+  },
+  "10": {
+    "storeName": "D-Mart",
+    "storeLogo": "gs://smartshopper-e4b3c.appspot.com/stores/dmart_logo.jpg",
+    "items": {
+      "063124201104": {
+        "upc": "063124201104",
+        "name": "Milk",
+        "price": 1.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/sct_milk.jpg",
+        "description": "Scotsburn 2% M.F. partly skimmed milk 4 L jug. A pasteurized, homogenized partly skimmed milk containing 2% M.F. and added vitamins A & D. This product is an excellent source of calcium."
+      },
+      "037000757535": {
+        "upc": "037000757535",
+        "name": "Body Wash",
+        "price": 4.19,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/body_wash_ivory.jpg",
+        "description": "Ivory Body Wash is dermatologist tested and formulated to be mild, gentle to your skin. It leaves skin clean and hydrated (vs. regular soap) and is free of dyes and heavy perfumes. Ivory reflects over 140 years of experience creating gentle products the whole family can trust."
+      },
+      "8901030756511": {
+        "upc": "8901030756511",
+        "name": "Vaseline Aloe",
+        "price": 1.99,
+        "imageURI": "gs://smartshopper-e4b3c.appspot.com/products/id_901030756511.png",
+        "description": "Vaseline Intensive Care Aloe Fresh Body Lotion is enriched with 100% pure aloe vera extracts and microdroplets of Vaseline jelly, restores skin's moisture and helps maintain 24 hour hydration in skin. "
+      }
+    }
+  }
+}
